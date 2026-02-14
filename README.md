@@ -280,7 +280,7 @@ If you use this tool in your research, please cite:
 
 - **Maintainer**: Ramesh Kumar Menghwar
 - **Email**: rkparhiar4u@gmail.com
-- **GitHub**: [[@https://github.com/Ramesh-97
+
 
 ## 🙏 Acknowledgments
 
