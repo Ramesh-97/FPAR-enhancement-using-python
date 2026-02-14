@@ -141,18 +141,18 @@ Our pipeline delivers:
 ## 🖼️ Example Results
 
 ### Side-by-Side Comparison
-![Comparison](examples/comparison.png)
+(https://github.com/Ramesh-97/FPAR-enhancement-using-python/blob/main/comparison.png)
 
 *Top row: Original image with histograms showing limited dynamic range*
 *Bottom row: Enhanced image with full spectrum utilization and edge detection*
 
 ### Detailed Multi-View Analysis
-![Detailed Comparison](examples/detailed_comparison.png)
+https://github.com/Ramesh-97/FPAR-enhancement-using-python/blob/main/detailed_comparison.png
 
 *Multiple colormap options and zoom views showing enhancement quality*
 
 ### Final Enhanced Output
-![Enhanced Result](examples/enhanced_final.png)
+https://github.com/Ramesh-97/FPAR-enhancement-using-python/blob/main/enhanced_final.png
 
 *Production-ready enhanced image with optimal contrast, reduced noise, and sharp details*
 
